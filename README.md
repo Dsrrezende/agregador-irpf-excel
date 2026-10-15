@@ -123,5 +123,5 @@ Cada validação exibe **mensagem de entrada** (orientação) e **alerta de erro
 **Douglas de Sousa Rezende**
 Inspetor de Ensaios Não Destrutivos (aviação) · Estudante de Engenharia de Produção
 
-[![GitHub](https://img.shields.io/badge/GitHub-perfil-181717?logo=github)](https://github.com/SEU_USUARIO)
+[![GitHub](https://img.shields.io/badge/GitHub-perfil-181717?logo=github)](https://github.com/Douglas_rezende)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-perfil-0A66C2?logo=linkedin)](https://www.linkedin.com/in/SEU_PERFIL)
